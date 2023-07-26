@@ -1,0 +1,1 @@
+﻿;2223950253;001;K0760;;0System.IndexOutOfRangeException: Index was outside the bounds of the array.   at OUTGOING_RUN.Form1.read_textFileUpdateErrorexelform(String filePath) in D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\Form1.vb:line 353   at OUTGOING_RUN.Form1.main(Object sender, EventArgs e) in D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\Form1.vb:line 263

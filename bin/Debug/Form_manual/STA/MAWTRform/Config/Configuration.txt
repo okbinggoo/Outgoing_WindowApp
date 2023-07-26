@@ -1,0 +1,14 @@
+\\163.50.57.106\wwwroot$\FG007\Image\Drawing\
+\\163.50.57.106\wwwroot$\FG007\Image\imageCross\
+\\163.50.57.106\wwwroot$\FG007\Image\PackingChk\
+\\163.50.57.106\wwwroot$\FG007\Image\MarkingCode\
+\\163.50.57.112\gls\OutGoing_M\PDFFILE\
+163.50.57.17
+MTL1
+Logistic
+Logistic
+m1tahb.murata.co.jp:11541
+prd_asean_euc
+MTL_EUC
+mS4Keg9z
+\\163.50.57.112\gls\OutGoing_M\ERROR_PDFFORM\

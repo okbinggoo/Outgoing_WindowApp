@@ -1,0 +1,17 @@
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\bin\Release\OUTGOING_RUN.exe.config
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\bin\Release\OUTGOING_RUN.exe
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\bin\Release\OUTGOING_RUN.pdb
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\bin\Release\OUTGOING_RUN.xml
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\bin\Release\adodb.dll
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\bin\Release\Oracle.DataAccess.dll
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\obj\Release\OUTGOING_RUN.vbproj.AssemblyReference.cache
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\obj\Release\Interop.DAO.dll
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\obj\Release\OUTGOING_RUN.vbproj.ResolveComReference.cache
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\obj\Release\OUTGOING_RUN.Form1.resources
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\obj\Release\OUTGOING_RUN.Resources.resources
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\obj\Release\OUTGOING_RUN.vbproj.GenerateResource.cache
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\obj\Release\OUTGOING_RUN.vbproj.CoreCompileInputs.cache
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\obj\Release\OUTGOING_RUN.vbproj.CopyComplete
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\obj\Release\OUTGOING_RUN.exe
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\obj\Release\OUTGOING_RUN.xml
+D:\GLS\uu\OUTGOING_RUN\OUTGOING_RUN\obj\Release\OUTGOING_RUN.pdb

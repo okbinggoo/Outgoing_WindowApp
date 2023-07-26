@@ -1,0 +1,26 @@
+163.50.57.17;#### Oracle Server
+MTL1;DATABASE NAME
+1521;Port
+INSPMTL;USERNAME
+insp1112;PASSWORD
+163.50.57.20;#####FTP Server
+\\163.50.57.47\gls\OUTGOING\BK\;FTP Back Up Path
+SELECT * FROM sql_table01 WHERE FCTY_CD='#FCTY#' AND H40_PRODUCT ='#H40#';SQLCMD
+m3imdbt01.murata.co.jp;#### IM Server
+dbtst7;#### DB Server
+SCHM_IM_T202;#### IM User
+SCHM_IM_T202;#### IM Password
+ToExcel.txt;#### Input Text Name
+ToExcel_filename.txt;#### Input Text Name
+Logistic;USERNAME Local LS
+Logistic;PASSWORD Local LS
+m1tahb.murata.co.jp;#### Oracle Server LS
+prd_asean_euc;DATABASE NAME LS
+11541;Port LS
+SCHM_EUC_MTL;USERNAME LS
+W0AxzJ3x;PASSWORD LS
+siriluk.jai@murata.com;TO MAIL
+sarawat.pen@murata.com;CC MAIL
+D:\GLS\OutGoing\PDFFILE\; Path PDF
+\\163.50.57.110\ftp$\GLS\OUTGOING\SEND\data\INSP_MTL_PDF.zip; Path zipfile
+D:\GLS\OutGoing\PDFFILEBK\; Path zipfileBK

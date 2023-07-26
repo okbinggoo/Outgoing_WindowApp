@@ -1,0 +1,13 @@
+\\163.50.57.103\wwwroot$\FH011\Drawing\
+\\163.50.57.103\wwwroot$\FH011\dimension\
+\\163.50.57.20\pcapl$\OutgoingSTD\SpecialData\B20\SpecialData.xlsx
+\\163.50.57.112\gls\OutGoing_M\PDFFILE\
+163.50.57.17
+MTL1
+Logistic
+Logistic
+m1tahb.murata.co.jp:11541
+prd_asean_euc
+MTL_EUC
+mS4Keg9z
+\\163.50.57.112\gls\OutGoing_M\ERROR_PDFFORM\

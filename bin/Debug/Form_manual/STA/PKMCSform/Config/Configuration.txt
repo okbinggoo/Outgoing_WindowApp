@@ -1,0 +1,12 @@
+\\163.50.57.103\wwwroot$\A0029\PackingImages\
+\\163.50.57.103\wwwroot$\A0029\dimension\
+\\163.50.57.20\pcapl$\OutgoingSTD\SpecialData\B20\SpecialData.xlsx
+\\163.50.57.112\gls\OutGoing_M\PDFFILE\
+MTL-ORACLE-SVR
+MTL1
+Logistic
+Logistic
+m1tahb.murata.co.jp:11541
+prd_asean_euc
+MTL_EUC
+mS4Keg9z

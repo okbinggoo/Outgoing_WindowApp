@@ -1,0 +1,7 @@
+#logFile#
+E:\mtlgls\GLS\OG_RUN_1\Form\STA\PAC-Dform\Logfile\
+#sendPath#
+E:\mtlgls\GLS\ZIPPDF\prepare\
+#RecordPrint#
+E:\mtlgls\GLS\OG_RUN_1\Form\STA\
+
